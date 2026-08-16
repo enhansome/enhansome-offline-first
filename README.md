@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,831 | 🐛 100 | 📅 2026-06-30 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,185 | 🐛 100 | 📅 2026-06-30 list thing.
 
 ## Table of Contents
 
@@ -874,7 +874,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,831 |
 
 [bottle-service](https://github.com/bahmutov/bottle-service) ⭐ 336 | 🐛 7 | 🌐 JavaScript | 📅 2016-01-29: Instant web applications restored from ServiceWorker cache.
 
-[react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,495 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23: Quick setup for performance orientated, offline-first React.js applications.
+[react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,494 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23: Quick setup for performance orientated, offline-first React.js applications.
 
 [Haywire](https://github.com/omnia-salud/haywire) ⭐ 25 | 🐛 2 | 🌐 JavaScript | 📅 2015-06-01: A minimal javascript library for network issues detection.
 
@@ -915,7 +915,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [workbox](https://github.com/GoogleChrome/workbox) ⭐ 12,978 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-04: JavaScript libraries for Offline Caching
 
-[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,343 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-15
+[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,347 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-16
 
 ## Books
 
@@ -958,7 +958,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
 
-Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors) ⭐ 3,316 | 🐛 7 | 📅 2022-11-23.
+Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors) ⭐ 3,317 | 🐛 7 | 📅 2022-11-23.
 
 ## Maintained by
 
@@ -973,4 +973,4 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
