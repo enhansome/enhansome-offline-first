@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,867 | 🐛 103 | 📅 2026-08-18 list thing.
 
 ## Table of Contents
 
@@ -874,7 +874,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,666 |
 
 [bottle-service](https://github.com/bahmutov/bottle-service) ⭐ 336 | 🐛 7 | 🌐 JavaScript | 📅 2016-01-29: Instant web applications restored from ServiceWorker cache.
 
-[react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,493 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23: Quick setup for performance orientated, offline-first React.js applications.
+[react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,492 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23: Quick setup for performance orientated, offline-first React.js applications.
 
 [Haywire](https://github.com/omnia-salud/haywire) ⭐ 25 | 🐛 2 | 🌐 JavaScript | 📅 2015-06-01: A minimal javascript library for network issues detection.
 
@@ -913,9 +913,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
 
-[workbox](https://github.com/GoogleChrome/workbox) ⭐ 12,980 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-04: JavaScript libraries for Offline Caching
+[workbox](https://github.com/GoogleChrome/workbox) ⭐ 12,982 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-04: JavaScript libraries for Offline Caching
 
-[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,354 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-19
+[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,353 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-20
 
 ## Books
 
@@ -973,4 +973,4 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
