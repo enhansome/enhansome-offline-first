@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,687 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,021 | 🐛 106 | 📅 2026-08-21 list thing.
 
 ## Table of Contents
 
@@ -874,7 +874,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,687 |
 
 [bottle-service](https://github.com/bahmutov/bottle-service) ⭐ 336 | 🐛 7 | 🌐 JavaScript | 📅 2016-01-29: Instant web applications restored from ServiceWorker cache.
 
-[react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,493 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23: Quick setup for performance orientated, offline-first React.js applications.
+[react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,494 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23: Quick setup for performance orientated, offline-first React.js applications.
 
 [Haywire](https://github.com/omnia-salud/haywire) ⭐ 25 | 🐛 2 | 🌐 JavaScript | 📅 2015-06-01: A minimal javascript library for network issues detection.
 
@@ -895,7 +895,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): A Service Worker acts like a proxy on the client. For page requests and requests made by pages, you get a fetch event that you can respond to yourself, creating offline experiences.
 
-[localForage](https://github.com/localForage/localForage) ⭐ 25,807 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30: Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+[localForage](https://github.com/localForage/localForage) ⭐ 25,806 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30: Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 [remoteStorage](https://remotestorage.io/): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
 
@@ -913,9 +913,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
 
-[workbox](https://github.com/GoogleChrome/workbox) ⭐ 12,985 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-04: JavaScript libraries for Offline Caching
+[workbox](https://github.com/GoogleChrome/workbox) ⭐ 12,987 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-04: JavaScript libraries for Offline Caching
 
-[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,358 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-21
+[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,359 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-22
 
 ## Books
 
@@ -973,4 +973,4 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
