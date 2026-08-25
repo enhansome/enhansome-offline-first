@@ -216,7 +216,7 @@
             "last_commit": "2026-08-04T00:34:34Z",
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 12987
+            "stars": 12989
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-24T02:00:32Z",
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23362
+            "stars": 23365
           }
         }
       ],
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:57:53.107Z",
+    "last_updated": "2026-08-25T03:27:28.741Z",
     "original_repository": "pazguille/offline-first",
     "original_repository_id": 22706666,
     "original_repository_sha": "d778c2757eb534063fda6a00e69f2fa6098171a4",

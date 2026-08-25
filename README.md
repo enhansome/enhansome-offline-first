@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,508 | 🐛 106 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,664 | 🐛 106 | 📅 2026-08-21 list thing.
 
 ## Table of Contents
 
@@ -913,9 +913,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
 
-[workbox](https://github.com/GoogleChrome/workbox) ⭐ 12,987 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-04: JavaScript libraries for Offline Caching
+[workbox](https://github.com/GoogleChrome/workbox) ⭐ 12,989 | 🐛 101 | 🌐 JavaScript | 📅 2026-08-04: JavaScript libraries for Offline Caching
 
-[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,362 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24
+[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,365 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-24
 
 ## Books
 
@@ -973,4 +973,4 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
