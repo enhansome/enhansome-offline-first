@@ -171,7 +171,7 @@
             "last_commit": "2024-07-30T20:27:14Z",
             "owner": "localForage",
             "repo": "localForage",
-            "stars": 25807
+            "stars": 25808
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-24T02:00:32Z",
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23365
+            "stars": 23364
           }
         }
       ],
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:27:28.741Z",
+    "last_updated": "2026-08-25T05:53:09.689Z",
     "original_repository": "pazguille/offline-first",
     "original_repository_id": 22706666,
     "original_repository_sha": "d778c2757eb534063fda6a00e69f2fa6098171a4",
