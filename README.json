@@ -96,7 +96,7 @@
             "last_commit": "2023-03-23T21:35:09Z",
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29493
+            "stars": 29491
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-04T00:34:34Z",
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 12989
+            "stars": 12992
           }
         },
         {
@@ -228,10 +228,10 @@
             "archived": false,
             "id": 75425073,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:00:32Z",
+            "last_commit": "2026-08-26T03:09:11Z",
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23364
+            "stars": 23366
           }
         }
       ],
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:09.689Z",
+    "last_updated": "2026-08-26T03:34:12.836Z",
     "original_repository": "pazguille/offline-first",
     "original_repository_id": 22706666,
     "original_repository_sha": "d778c2757eb534063fda6a00e69f2fa6098171a4",
