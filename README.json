@@ -96,7 +96,7 @@
             "last_commit": "2023-03-23T21:35:09Z",
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29491
+            "stars": 29490
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2024-07-30T20:27:14Z",
             "owner": "localForage",
             "repo": "localForage",
-            "stars": 25808
+            "stars": 25809
           }
         },
         {
@@ -228,10 +228,10 @@
             "archived": false,
             "id": 75425073,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T03:09:11Z",
+            "last_commit": "2026-08-27T08:42:57Z",
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23366
+            "stars": 23369
           }
         }
       ],
@@ -239,9 +239,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:34:12.836Z",
-    "original_repository": "pazguille/offline-first",
-    "original_repository_id": 22706666,
+    "last_updated": "2026-08-27T11:57:22.542Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 22706666,
+      "language": null,
+      "last_commit": "2022-11-23T17:08:40Z",
+      "owner": "pazguille",
+      "repo": "offline-first",
+      "stars": 3319
+    },
     "original_repository_sha": "d778c2757eb534063fda6a00e69f2fa6098171a4",
     "enhanced_repository": "enhansome/enhansome-offline-first",
     "enhanced_repository_description": null,
