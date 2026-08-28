@@ -16,7 +16,8 @@
             "owner": "homam",
             "repo": "service-workers-example",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "GoogleChrome",
             "repo": "samples",
             "stars": 5888
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         }
       ],
       "title": "Posts"
@@ -52,7 +54,8 @@
             "owner": "NekR",
             "repo": "offline-plugin",
             "stars": 4509
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "zackargyle",
             "repo": "service-workers",
             "stars": 1280
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "bahmutov",
             "repo": "bottle-service",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
             "stars": 29490
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "omnia-salud",
             "repo": "haywire",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "GoogleChromeLabs",
             "repo": "sw-toolbox",
             "stars": 3583
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "jakearchibald",
             "repo": "simple-serviceworker-tutorial",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "mozilla",
             "repo": "makedrive",
             "stars": 349
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "localForage",
             "repo": "localForage",
             "stars": 25809
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "gr2m",
             "repo": "appcache-nanny",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "vitalets",
             "repo": "bro-fs",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -216,8 +229,9 @@
             "last_commit": "2026-08-04T00:34:34Z",
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 12992
-          }
+            "stars": 12994
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         },
         {
           "node_type": "item",
@@ -228,18 +242,19 @@
             "archived": false,
             "id": 75425073,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:42:57Z",
+            "last_commit": "2026-08-27T17:09:40Z",
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23369
-          }
+            "stars": 23370
+          },
+          "first_seen": "2026-08-28T14:33:22.314Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:02:45.442Z",
+    "last_updated": "2026-08-28T14:33:22.314Z",
     "original_repository_info": {
       "archived": false,
       "id": 22706666,
