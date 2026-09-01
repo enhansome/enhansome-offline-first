@@ -36,8 +36,8 @@
             "id": 20438302,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-18T23:44:01Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-01T01:14:08Z",
+            "open_issues": 127,
             "owner": "GoogleChrome",
             "repo": "samples",
             "stars": 5887,
@@ -271,7 +271,7 @@
             "open_issues": 250,
             "owner": "localForage",
             "repo": "localForage",
-            "stars": 25810,
+            "stars": 25809,
             "topics": [
               "indexeddb",
               "javascript",
@@ -369,8 +369,8 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T17:09:40Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-01T07:48:54Z",
+            "open_issues": 24,
             "owner": "pubkey",
             "repo": "rxdb",
             "stars": 23371,
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:52:33.975Z",
+    "last_updated": "2026-09-01T07:57:20.787Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
