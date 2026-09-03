@@ -36,8 +36,8 @@
             "id": 20438302,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T01:03:13Z",
-            "open_issues": 128,
+            "last_commit": "2026-09-03T05:16:04Z",
+            "open_issues": 134,
             "owner": "GoogleChrome",
             "repo": "samples",
             "stars": 5887,
@@ -148,7 +148,7 @@
             "open_issues": 140,
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29486,
+            "stars": 29485,
             "topics": [
               "i18n",
               "immer",
@@ -271,7 +271,7 @@
             "open_issues": 250,
             "owner": "localForage",
             "repo": "localForage",
-            "stars": 25809,
+            "stars": 25808,
             "topics": [
               "indexeddb",
               "javascript",
@@ -341,11 +341,11 @@
             "id": 55424670,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T06:08:59Z",
-            "open_issues": 107,
+            "last_commit": "2026-09-02T14:24:25Z",
+            "open_issues": 70,
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 12996,
+            "stars": 12998,
             "topics": [
               "offline-first",
               "progressive-web-app",
@@ -369,7 +369,7 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T05:32:05Z",
+            "last_commit": "2026-09-03T04:33:15Z",
             "open_issues": 23,
             "owner": "pubkey",
             "repo": "rxdb",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:18:01.228Z",
+    "last_updated": "2026-09-03T07:21:02.274Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
