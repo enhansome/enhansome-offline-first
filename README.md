@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,097 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,404 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -490,7 +490,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,097 |
 [The next UX challenge on the web: gaining offline trust](https://www.christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/)
 (Christian Heilmann -  Dec 8, 2014)
 
-[Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) ⭐ 5,885 | 🐛 136 | 🌐 JavaScript | 📅 2026-09-05
+[Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) ⭐ 5,885 | 🐛 137 | 🌐 JavaScript | 📅 2026-09-06
 (Cesar William Alvarenga - Dec 8, 2014)
 
 [Introduction to Service Worker](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
@@ -874,7 +874,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,097 |
 
 [bottle-service](https://github.com/bahmutov/bottle-service) ⭐ 335 | 🐛 7 | 🌐 JavaScript | 📅 2016-01-29: Instant web applications restored from ServiceWorker cache.
 
-[react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,482 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23: Quick setup for performance orientated, offline-first React.js applications.
+[react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,479 | 🐛 140 | 🌐 JavaScript | 📅 2023-03-23: Quick setup for performance orientated, offline-first React.js applications.
 
 [Haywire](https://github.com/omnia-salud/haywire) ⭐ 25 | 🐛 2 | 🌐 JavaScript | 📅 2015-06-01: A minimal javascript library for network issues detection.
 
@@ -913,9 +913,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
 
-[workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,001 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: JavaScript libraries for Offline Caching
+[workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,002 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: JavaScript libraries for Offline Caching
 
-[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,373 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-04
+[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,372 | 🐛 20 | 🌐 TypeScript | 📅 2026-09-04
 
 ## Books
 
@@ -958,7 +958,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
 
-Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors) ⭐ 3,320 | 🐛 8 | 📅 2022-11-23.
+Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors) ⭐ 3,319 | 🐛 8 | 📅 2022-11-23.
 
 ## Maintained by
 
@@ -973,4 +973,4 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
