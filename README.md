@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,628 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,950 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -490,7 +490,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,628 |
 [The next UX challenge on the web: gaining offline trust](https://www.christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/)
 (Christian Heilmann -  Dec 8, 2014)
 
-[Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) ⭐ 5,885 | 🐛 142 | 🌐 JavaScript | 📅 2026-09-10
+[Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) ⭐ 5,885 | 🐛 144 | 🌐 JavaScript | 📅 2026-09-10
 (Cesar William Alvarenga - Dec 8, 2014)
 
 [Introduction to Service Worker](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
@@ -913,9 +913,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
 
-[workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,006 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: JavaScript libraries for Offline Caching
+[workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,007 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: JavaScript libraries for Offline Caching
 
-[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,376 | 🐛 21 | 🌐 TypeScript | 📅 2026-09-10
+[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,376 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-11
 
 ## Books
 
@@ -973,4 +973,4 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
