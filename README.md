@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,950 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,240 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -490,7 +490,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,950 |
 [The next UX challenge on the web: gaining offline trust](https://www.christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/)
 (Christian Heilmann -  Dec 8, 2014)
 
-[Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) ⭐ 5,885 | 🐛 144 | 🌐 JavaScript | 📅 2026-09-10
+[Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) ⭐ 5,885 | 🐛 147 | 🌐 JavaScript | 📅 2026-09-11
 (Cesar William Alvarenga - Dec 8, 2014)
 
 [Introduction to Service Worker](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
@@ -866,7 +866,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,950 |
 
 ## Tools
 
-[offline-plugin](https://github.com/NekR/offline-plugin/) ⭐ 4,507 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack.
+[offline-plugin](https://github.com/NekR/offline-plugin/) ⭐ 4,508 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack.
 
 [Pinterest Service Workers](https://github.com/pinterest/service-workers) ⭐ 1,280 | 🐛 10 | 🌐 JavaScript | 📅 2024-03-13:A collection of utilities for creating/testing/experimenting with service workers.
 
@@ -895,7 +895,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): A Service Worker acts like a proxy on the client. For page requests and requests made by pages, you get a fetch event that you can respond to yourself, creating offline experiences.
 
-[localForage](https://github.com/localForage/localForage) ⭐ 25,811 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30: Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+[localForage](https://github.com/localForage/localForage) ⭐ 25,813 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30: Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 [remoteStorage](https://remotestorage.io/): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
 
@@ -913,9 +913,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
 
-[workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,007 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: JavaScript libraries for Offline Caching
+[workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,009 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: JavaScript libraries for Offline Caching
 
-[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,376 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-11
+[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,377 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-12
 
 ## Books
 
@@ -958,7 +958,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
 
-Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors) ⭐ 3,319 | 🐛 8 | 📅 2022-11-23.
+Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors) ⭐ 3,320 | 🐛 8 | 📅 2022-11-23.
 
 ## Maintained by
 
@@ -973,4 +973,4 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
