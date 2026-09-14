@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,543 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,876 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -866,7 +866,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,543 |
 
 ## Tools
 
-[offline-plugin](https://github.com/NekR/offline-plugin/) ⭐ 4,508 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack.
+[offline-plugin](https://github.com/NekR/offline-plugin/) ⭐ 4,509 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack.
 
 [Pinterest Service Workers](https://github.com/pinterest/service-workers) ⭐ 1,280 | 🐛 10 | 🌐 JavaScript | 📅 2024-03-13:A collection of utilities for creating/testing/experimenting with service workers.
 
@@ -913,7 +913,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
 
-[workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,010 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: JavaScript libraries for Offline Caching
+[workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,013 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-02: JavaScript libraries for Offline Caching
 
 [rxdb](https://github.com/pubkey/rxdb) ⭐ 23,377 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-13
 
@@ -973,4 +973,4 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
