@@ -67,7 +67,7 @@
             "open_issues": 110,
             "owner": "NekR",
             "repo": "offline-plugin",
-            "stars": 4510,
+            "stars": 4509,
             "topics": [
               "appcache",
               "application-cache",
@@ -148,7 +148,7 @@
             "open_issues": 140,
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29478,
+            "stars": 29475,
             "topics": [
               "i18n",
               "immer",
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T04:54:45Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-17T06:16:50Z",
+            "open_issues": 18,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23380,
+            "stars": 23383,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:52:36.162Z",
+    "last_updated": "2026-09-17T07:57:20.797Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
@@ -416,7 +416,7 @@
       "open_issues": 8,
       "owner": "pazguille",
       "repo": "offline-first",
-      "stars": 3320,
+      "stars": 3321,
       "topics": [
         "appcache",
         "indexeddb",
