@@ -148,7 +148,7 @@
             "open_issues": 140,
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29475,
+            "stars": 29476,
             "topics": [
               "i18n",
               "immer",
@@ -271,7 +271,7 @@
             "open_issues": 250,
             "owner": "localForage",
             "repo": "localForage",
-            "stars": 25813,
+            "stars": 25814,
             "topics": [
               "indexeddb",
               "javascript",
@@ -345,7 +345,7 @@
             "open_issues": 70,
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 13015,
+            "stars": 13017,
             "topics": [
               "offline-first",
               "progressive-web-app",
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T06:16:50Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-18T06:51:10Z",
+            "open_issues": 17,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23383,
+            "stars": 23385,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:57:20.797Z",
+    "last_updated": "2026-09-18T07:35:10.829Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
@@ -416,7 +416,7 @@
       "open_issues": 8,
       "owner": "pazguille",
       "repo": "offline-first",
-      "stars": 3321,
+      "stars": 3322,
       "topics": [
         "appcache",
         "indexeddb",
