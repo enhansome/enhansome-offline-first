@@ -345,7 +345,7 @@
             "open_issues": 71,
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 13021,
+            "stars": 13022,
             "topics": [
               "offline-first",
               "progressive-web-app",
@@ -373,7 +373,7 @@
             "open_issues": 17,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23386,
+            "stars": 23388,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:53:55.945Z",
+    "last_updated": "2026-09-21T08:10:16.823Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
