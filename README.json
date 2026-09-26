@@ -342,7 +342,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-02T14:24:25Z",
-            "open_issues": 71,
+            "open_issues": 70,
             "owner": "GoogleChrome",
             "repo": "workbox",
             "stars": 13022,
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T02:09:22Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-26T05:01:24Z",
+            "open_issues": 19,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23391,
+            "stars": 23390,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T08:07:52.383Z",
+    "last_updated": "2026-09-26T07:58:28.383Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
