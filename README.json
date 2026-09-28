@@ -40,7 +40,7 @@
             "open_issues": 127,
             "owner": "GoogleChrome",
             "repo": "samples",
-            "stars": 5884,
+            "stars": 5883,
             "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.314Z"
@@ -148,7 +148,7 @@
             "open_issues": 140,
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29472,
+            "stars": 29470,
             "topics": [
               "i18n",
               "immer",
@@ -342,10 +342,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-02T14:24:25Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 13023,
+            "stars": 13024,
             "topics": [
               "offline-first",
               "progressive-web-app",
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T05:33:48Z",
+            "last_commit": "2026-09-28T06:09:22Z",
             "open_issues": 19,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23392,
+            "stars": 23393,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:30:42.547Z",
+    "last_updated": "2026-09-28T08:55:25.733Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
