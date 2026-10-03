@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,428 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -490,7 +490,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,428 |
 [The next UX challenge on the web: gaining offline trust](https://www.christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/)
 (Christian Heilmann -  Dec 8, 2014)
 
-[Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) ⭐ 5,883 | 🐛 135 | 🌐 JavaScript | 📅 2026-10-01
+[Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) ⭐ 5,883 | 🐛 137 | 🌐 JavaScript | 📅 2026-10-03
 (Cesar William Alvarenga - Dec 8, 2014)
 
 [Introduction to Service Worker](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
@@ -915,7 +915,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,021 | 🐛 76 | 🌐 JavaScript | 📅 2026-09-29: JavaScript libraries for Offline Caching
 
-[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,398 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-02
+[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,397 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-03
 
 ## Books
 
@@ -958,7 +958,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
 
-Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors) ⭐ 3,325 | 🐛 8 | 📅 2022-11-23.
+Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors).
 
 ## Maintained by
 
@@ -973,4 +973,4 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

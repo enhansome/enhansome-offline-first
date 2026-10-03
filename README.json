@@ -36,8 +36,8 @@
             "id": 20438302,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T20:15:33Z",
-            "open_issues": 135,
+            "last_commit": "2026-10-03T03:06:59Z",
+            "open_issues": 137,
             "owner": "GoogleChrome",
             "repo": "samples",
             "stars": 5883,
@@ -201,7 +201,7 @@
             "open_issues": 56,
             "owner": "GoogleChromeLabs",
             "repo": "sw-toolbox",
-            "stars": 3577,
+            "stars": 3576,
             "topics": [
               "caching",
               "javascript",
@@ -360,7 +360,7 @@
         {
           "node_type": "item",
           "title": "rxdb",
-          "description": null,
+          "description": "pubkey/rxdb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T04:44:45Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-03T04:30:14Z",
+            "open_issues": 16,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23398,
+            "stars": 23397,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:53:49.028Z",
+    "last_updated": "2026-10-03T04:58:58.999Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
