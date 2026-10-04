@@ -104,7 +104,7 @@
             "open_issues": 10,
             "owner": "zackargyle",
             "repo": "service-workers",
-            "stars": 1280,
+            "stars": 1278,
             "topics": [
               "service-worker"
             ]
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:30:14Z",
+            "last_commit": "2026-10-04T05:23:29Z",
             "open_issues": 16,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23397,
+            "stars": 23398,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:30:56.113Z",
+    "last_updated": "2026-10-04T08:41:59.952Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",

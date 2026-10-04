@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,855 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,360 | 🐛 107 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -868,7 +868,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,855 |
 
 [offline-plugin](https://github.com/NekR/offline-plugin/) ⭐ 4,505 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack.
 
-[Pinterest Service Workers](https://github.com/pinterest/service-workers) ⭐ 1,280 | 🐛 10 | 🌐 JavaScript | 📅 2024-03-13:A collection of utilities for creating/testing/experimenting with service workers.
+[Pinterest Service Workers](https://github.com/pinterest/service-workers) ⭐ 1,278 | 🐛 10 | 🌐 JavaScript | 📅 2024-03-13:A collection of utilities for creating/testing/experimenting with service workers.
 
 [Kinto](http://www.kinto-storage.org/): Add synchronisation and sharing abilities to your Web application in seconds.
 
@@ -915,7 +915,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,021 | 🐛 76 | 🌐 JavaScript | 📅 2026-09-29: JavaScript libraries for Offline Caching
 
-[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,397 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-03
+[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,398 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-04
 
 ## Books
 
@@ -973,4 +973,4 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
