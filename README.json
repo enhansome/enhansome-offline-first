@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T06:02:27Z",
+            "last_commit": "2026-10-06T10:01:29Z",
             "open_issues": 14,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23402,
+            "stars": 23401,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:19:32.480Z",
+    "last_updated": "2026-10-06T11:09:59.527Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",

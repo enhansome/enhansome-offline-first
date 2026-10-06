@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,340 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,373 | 🐛 106 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -915,7 +915,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,020 | 🐛 78 | 🌐 JavaScript | 📅 2026-10-06: JavaScript libraries for Offline Caching
 
-[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,402 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-06
+[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,401 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-06
 
 ## Books
 
