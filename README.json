@@ -36,8 +36,8 @@
             "id": 20438302,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T15:45:14Z",
-            "open_issues": 139,
+            "last_commit": "2026-10-06T02:54:24Z",
+            "open_issues": 140,
             "owner": "GoogleChrome",
             "repo": "samples",
             "stars": 5884,
@@ -148,7 +148,7 @@
             "open_issues": 140,
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29470,
+            "stars": 29471,
             "topics": [
               "i18n",
               "immer",
@@ -341,11 +341,11 @@
             "id": 55424670,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T05:56:37Z",
-            "open_issues": 76,
+            "last_commit": "2026-10-06T01:55:21Z",
+            "open_issues": 78,
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 13021,
+            "stars": 13020,
             "topics": [
               "offline-first",
               "progressive-web-app",
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T09:16:13Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-06T06:02:27Z",
+            "open_issues": 14,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23398,
+            "stars": 23402,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T09:33:35.316Z",
+    "last_updated": "2026-10-06T09:19:32.480Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
