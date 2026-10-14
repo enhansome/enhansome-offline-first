@@ -36,11 +36,11 @@
             "id": 20438302,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T04:06:45Z",
-            "open_issues": 147,
+            "last_commit": "2026-10-14T02:57:29Z",
+            "open_issues": 150,
             "owner": "GoogleChrome",
             "repo": "samples",
-            "stars": 5883,
+            "stars": 5884,
             "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.314Z"
@@ -67,7 +67,7 @@
             "open_issues": 110,
             "owner": "NekR",
             "repo": "offline-plugin",
-            "stars": 4503,
+            "stars": 4504,
             "topics": [
               "appcache",
               "application-cache",
@@ -104,7 +104,7 @@
             "open_issues": 10,
             "owner": "zackargyle",
             "repo": "service-workers",
-            "stars": 1278,
+            "stars": 1279,
             "topics": [
               "service-worker"
             ]
@@ -127,7 +127,7 @@
             "open_issues": 7,
             "owner": "bahmutov",
             "repo": "bottle-service",
-            "stars": 333,
+            "stars": 334,
             "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.314Z"
@@ -148,7 +148,7 @@
             "open_issues": 141,
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29464,
+            "stars": 29466,
             "topics": [
               "i18n",
               "immer",
@@ -271,7 +271,7 @@
             "open_issues": 251,
             "owner": "localForage",
             "repo": "localForage",
-            "stars": 25799,
+            "stars": 25801,
             "topics": [
               "indexeddb",
               "javascript",
@@ -345,7 +345,7 @@
             "open_issues": 80,
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 13023,
+            "stars": 13025,
             "topics": [
               "offline-first",
               "progressive-web-app",
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T09:34:09Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-14T04:28:23Z",
+            "open_issues": 16,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23406,
+            "stars": 23408,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T09:42:01.538Z",
+    "last_updated": "2026-10-14T07:57:48.708Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
