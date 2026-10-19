@@ -148,7 +148,7 @@
             "open_issues": 141,
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29463,
+            "stars": 29462,
             "topics": [
               "i18n",
               "immer",
@@ -345,7 +345,7 @@
             "open_issues": 82,
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 13024,
+            "stars": 13025,
             "topics": [
               "offline-first",
               "progressive-web-app",
@@ -369,8 +369,8 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T05:47:43Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-19T05:15:55Z",
+            "open_issues": 20,
             "owner": "pubkey",
             "repo": "rxdb",
             "stars": 23411,
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:23:46.675Z",
+    "last_updated": "2026-10-19T08:02:41.958Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
