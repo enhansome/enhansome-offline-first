@@ -36,11 +36,11 @@
             "id": 20438302,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T22:21:00Z",
-            "open_issues": 163,
+            "last_commit": "2026-10-26T04:08:44Z",
+            "open_issues": 164,
             "owner": "GoogleChrome",
             "repo": "samples",
-            "stars": 5887,
+            "stars": 5889,
             "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.314Z"
@@ -271,7 +271,7 @@
             "open_issues": 251,
             "owner": "localForage",
             "repo": "localForage",
-            "stars": 25805,
+            "stars": 25806,
             "topics": [
               "indexeddb",
               "javascript",
@@ -345,7 +345,7 @@
             "open_issues": 84,
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 13033,
+            "stars": 13034,
             "topics": [
               "offline-first",
               "progressive-web-app",
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T04:49:30Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-26T05:37:20Z",
+            "open_issues": 23,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23413,
+            "stars": 23414,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:46:52.401Z",
+    "last_updated": "2026-10-26T08:03:51.760Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
