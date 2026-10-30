@@ -36,8 +36,8 @@
             "id": 20438302,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T02:01:44Z",
-            "open_issues": 164,
+            "last_commit": "2026-10-29T23:22:56Z",
+            "open_issues": 169,
             "owner": "GoogleChrome",
             "repo": "samples",
             "stars": 5889,
@@ -67,7 +67,7 @@
             "open_issues": 110,
             "owner": "NekR",
             "repo": "offline-plugin",
-            "stars": 4499,
+            "stars": 4500,
             "topics": [
               "appcache",
               "application-cache",
@@ -104,7 +104,7 @@
             "open_issues": 10,
             "owner": "zackargyle",
             "repo": "service-workers",
-            "stars": 1278,
+            "stars": 1277,
             "topics": [
               "service-worker"
             ]
@@ -148,7 +148,7 @@
             "open_issues": 141,
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29456,
+            "stars": 29454,
             "topics": [
               "i18n",
               "immer",
@@ -271,7 +271,7 @@
             "open_issues": 251,
             "owner": "localForage",
             "repo": "localForage",
-            "stars": 25809,
+            "stars": 25807,
             "topics": [
               "indexeddb",
               "javascript",
@@ -341,11 +341,11 @@
             "id": 55424670,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T18:07:54Z",
+            "last_commit": "2026-10-29T21:43:40Z",
             "open_issues": 85,
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 13038,
+            "stars": 13039,
             "topics": [
               "offline-first",
               "progressive-web-app",
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T22:57:46Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-30T00:47:08Z",
+            "open_issues": 16,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23420,
+            "stars": 23419,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T08:49:55.178Z",
+    "last_updated": "2026-10-30T08:54:22.248Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
@@ -416,7 +416,7 @@
       "open_issues": 8,
       "owner": "pazguille",
       "repo": "offline-first",
-      "stars": 3326,
+      "stars": 3328,
       "topics": [
         "appcache",
         "indexeddb",
