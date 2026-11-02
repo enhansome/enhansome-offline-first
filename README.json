@@ -36,8 +36,8 @@
             "id": 20438302,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T19:57:12Z",
-            "open_issues": 173,
+            "last_commit": "2026-11-02T04:49:00Z",
+            "open_issues": 174,
             "owner": "GoogleChrome",
             "repo": "samples",
             "stars": 5889,
@@ -67,7 +67,7 @@
             "open_issues": 110,
             "owner": "NekR",
             "repo": "offline-plugin",
-            "stars": 4500,
+            "stars": 4499,
             "topics": [
               "appcache",
               "application-cache",
@@ -148,7 +148,7 @@
             "open_issues": 141,
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29450,
+            "stars": 29449,
             "topics": [
               "i18n",
               "immer",
@@ -342,7 +342,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-29T21:43:40Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "GoogleChrome",
             "repo": "workbox",
             "stars": 13040,
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T01:40:02Z",
+            "last_commit": "2026-11-01T18:53:28Z",
             "open_issues": 17,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23423,
+            "stars": 23425,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:36:57.527Z",
+    "last_updated": "2026-11-02T09:52:32.059Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
