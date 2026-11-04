@@ -36,11 +36,11 @@
             "id": 20438302,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T05:46:59Z",
-            "open_issues": 175,
+            "last_commit": "2026-11-04T03:00:07Z",
+            "open_issues": 176,
             "owner": "GoogleChrome",
             "repo": "samples",
-            "stars": 5889,
+            "stars": 5888,
             "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.314Z"
@@ -148,7 +148,7 @@
             "open_issues": 141,
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29447,
+            "stars": 29448,
             "topics": [
               "i18n",
               "immer",
@@ -271,7 +271,7 @@
             "open_issues": 251,
             "owner": "localForage",
             "repo": "localForage",
-            "stars": 25804,
+            "stars": 25803,
             "topics": [
               "indexeddb",
               "javascript",
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T05:09:13Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-04T05:45:17Z",
+            "open_issues": 21,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23422,
+            "stars": 23419,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T09:56:52.212Z",
+    "last_updated": "2026-11-04T09:44:47.867Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
