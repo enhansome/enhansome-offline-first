@@ -40,7 +40,7 @@
             "open_issues": 178,
             "owner": "GoogleChrome",
             "repo": "samples",
-            "stars": 5889,
+            "stars": 5890,
             "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.314Z"
@@ -148,7 +148,7 @@
             "open_issues": 141,
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29440,
+            "stars": 29441,
             "topics": [
               "i18n",
               "immer",
@@ -201,7 +201,7 @@
             "open_issues": 56,
             "owner": "GoogleChromeLabs",
             "repo": "sw-toolbox",
-            "stars": 3577,
+            "stars": 3576,
             "topics": [
               "caching",
               "javascript",
@@ -271,7 +271,7 @@
             "open_issues": 251,
             "owner": "localForage",
             "repo": "localForage",
-            "stars": 25802,
+            "stars": 25801,
             "topics": [
               "indexeddb",
               "javascript",
@@ -341,11 +341,11 @@
             "id": 55424670,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T21:43:40Z",
-            "open_issues": 92,
+            "last_commit": "2026-11-15T11:04:23Z",
+            "open_issues": 95,
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 13049,
+            "stars": 13055,
             "topics": [
               "offline-first",
               "progressive-web-app",
@@ -373,7 +373,7 @@
             "open_issues": 211,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23428,
+            "stars": 23434,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T09:49:15.138Z",
+    "last_updated": "2026-11-16T10:06:25.811Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
