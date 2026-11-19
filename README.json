@@ -271,7 +271,7 @@
             "open_issues": 251,
             "owner": "localForage",
             "repo": "localForage",
-            "stars": 25801,
+            "stars": 25800,
             "topics": [
               "indexeddb",
               "javascript",
@@ -369,11 +369,11 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T09:59:06Z",
-            "open_issues": 67,
+            "last_commit": "2026-11-19T10:40:59Z",
+            "open_issues": 22,
             "owner": "pubkey",
             "repo": "rxdb",
-            "stars": 23441,
+            "stars": 23442,
             "topics": [
               "angular",
               "browser-database",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T10:37:50.369Z",
+    "last_updated": "2026-11-19T10:41:40.394Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
