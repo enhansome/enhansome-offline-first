@@ -40,7 +40,7 @@
             "open_issues": 177,
             "owner": "GoogleChrome",
             "repo": "samples",
-            "stars": 5893,
+            "stars": 5894,
             "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.314Z"
@@ -67,7 +67,7 @@
             "open_issues": 110,
             "owner": "NekR",
             "repo": "offline-plugin",
-            "stars": 4498,
+            "stars": 4497,
             "topics": [
               "appcache",
               "application-cache",
@@ -369,8 +369,8 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T10:03:08Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-21T08:46:48Z",
+            "open_issues": 25,
             "owner": "pubkey",
             "repo": "rxdb",
             "stars": 23440,
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T10:22:28.913Z",
+    "last_updated": "2026-11-21T10:07:09.241Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",
