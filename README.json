@@ -40,7 +40,7 @@
             "open_issues": 177,
             "owner": "GoogleChrome",
             "repo": "samples",
-            "stars": 5894,
+            "stars": 5895,
             "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.314Z"
@@ -67,7 +67,7 @@
             "open_issues": 110,
             "owner": "NekR",
             "repo": "offline-plugin",
-            "stars": 4498,
+            "stars": 4497,
             "topics": [
               "appcache",
               "application-cache",
@@ -104,7 +104,7 @@
             "open_issues": 10,
             "owner": "zackargyle",
             "repo": "service-workers",
-            "stars": 1277,
+            "stars": 1276,
             "topics": [
               "service-worker"
             ]
@@ -148,7 +148,7 @@
             "open_issues": 141,
             "owner": "react-boilerplate",
             "repo": "react-boilerplate",
-            "stars": 29436,
+            "stars": 29434,
             "topics": [
               "i18n",
               "immer",
@@ -271,7 +271,7 @@
             "open_issues": 251,
             "owner": "localForage",
             "repo": "localForage",
-            "stars": 25799,
+            "stars": 25796,
             "topics": [
               "indexeddb",
               "javascript",
@@ -345,7 +345,7 @@
             "open_issues": 93,
             "owner": "GoogleChrome",
             "repo": "workbox",
-            "stars": 13064,
+            "stars": 13062,
             "topics": [
               "offline-first",
               "progressive-web-app",
@@ -369,7 +369,7 @@
             "id": 75425073,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T12:45:16Z",
+            "last_commit": "2026-11-25T11:38:32Z",
             "open_issues": 26,
             "owner": "pubkey",
             "repo": "rxdb",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T12:51:37.641Z",
+    "last_updated": "2026-11-25T11:38:32.972Z",
     "original_repository_info": {
       "archived": false,
       "description": ":electric_plug: Everything you need to know to create offline-first web apps.",

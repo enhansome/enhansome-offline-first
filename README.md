@@ -4,7 +4,7 @@
 
 > "Web" and "online" are two closely associated terms, downright synonymous to many people. So why on earth would we talk about "offline" web technologies, and what does the term even mean?
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,011 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,556 | 🐛 103 | 📅 2026-09-02 list thing.
 
 ## Table of Contents
 
@@ -490,7 +490,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,011 |
 [The next UX challenge on the web: gaining offline trust](https://www.christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/)
 (Christian Heilmann -  Dec 8, 2014)
 
-[Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) ⭐ 5,894 | 🐛 177 | 🌐 JavaScript | 📅 2026-11-16
+[Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker) ⭐ 5,895 | 🐛 177 | 🌐 JavaScript | 📅 2026-11-16
 (Cesar William Alvarenga - Dec 8, 2014)
 
 [Introduction to Service Worker](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
@@ -866,15 +866,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,011 |
 
 ## Tools
 
-[offline-plugin](https://github.com/NekR/offline-plugin/) ⭐ 4,498 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack.
+[offline-plugin](https://github.com/NekR/offline-plugin/) ⭐ 4,497 | 🐛 110 | 🌐 JavaScript | 📅 2021-11-08: Offline plugin (ServiceWorker, AppCache) for webpack.
 
-[Pinterest Service Workers](https://github.com/pinterest/service-workers) ⭐ 1,277 | 🐛 10 | 🌐 JavaScript | 📅 2024-03-13:A collection of utilities for creating/testing/experimenting with service workers.
+[Pinterest Service Workers](https://github.com/pinterest/service-workers) ⭐ 1,276 | 🐛 10 | 🌐 JavaScript | 📅 2024-03-13:A collection of utilities for creating/testing/experimenting with service workers.
 
 [Kinto](http://www.kinto-storage.org/): Add synchronisation and sharing abilities to your Web application in seconds.
 
 [bottle-service](https://github.com/bahmutov/bottle-service) ⭐ 334 | 🐛 7 | 🌐 JavaScript | 📅 2016-01-29: Instant web applications restored from ServiceWorker cache.
 
-[react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,436 | 🐛 141 | 🌐 JavaScript | 📅 2023-03-23: Quick setup for performance orientated, offline-first React.js applications.
+[react-boilerplate](https://github.com/mxstbr/react-boilerplate) ⭐ 29,434 | 🐛 141 | 🌐 JavaScript | 📅 2023-03-23: Quick setup for performance orientated, offline-first React.js applications.
 
 [Haywire](https://github.com/omnia-salud/haywire) ⭐ 25 | 🐛 2 | 🌐 JavaScript | 📅 2015-06-01: A minimal javascript library for network issues detection.
 
@@ -895,7 +895,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): A Service Worker acts like a proxy on the client. For page requests and requests made by pages, you get a fetch event that you can respond to yourself, creating offline experiences.
 
-[localForage](https://github.com/localForage/localForage) ⭐ 25,799 | 🐛 251 | 🌐 JavaScript | 📅 2024-07-30: Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+[localForage](https://github.com/localForage/localForage) ⭐ 25,796 | 🐛 251 | 🌐 JavaScript | 📅 2024-07-30: Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 [remoteStorage](https://remotestorage.io/): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
 
@@ -913,9 +913,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
 
-[workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,064 | 🐛 93 | 🌐 JavaScript | 📅 2026-11-15: JavaScript libraries for Offline Caching
+[workbox](https://github.com/GoogleChrome/workbox) ⭐ 13,062 | 🐛 93 | 🌐 JavaScript | 📅 2026-11-15: JavaScript libraries for Offline Caching
 
-[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,444 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-24
+[rxdb](https://github.com/pubkey/rxdb) ⭐ 23,444 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-25
 
 ## Books
 
@@ -973,4 +973,4 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
